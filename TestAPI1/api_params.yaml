@@ -5,10 +5,8 @@ environments:
       sandbox:
   - name: qa
     endpoints:
-      production: 
-        url: 'http://prod.wso2.com'
-      sandbox: 
-        url: 'http://sand.wso2.com'
+      production:
+      sandbox:
 
 deploy:
   import:
